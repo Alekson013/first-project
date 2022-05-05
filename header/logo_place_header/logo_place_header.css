@@ -1,0 +1,10 @@
+.logo_place_header {
+  background-image: url(/Brif№1/img/logo.svg);
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  width: 183px;
+  height: 32px;
+  margin: 0;
+  z-index: 3;
+}

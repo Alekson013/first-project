@@ -1,0 +1,25 @@
+.kaufman__triangle {
+  background-image: url(/Brif№1/img/triangle.svg);
+  width: 876px;
+  height: 876px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  overflow: hidden;
+  right: -210px;
+  top: 0px;
+  z-index: 0;
+  animation-name: rotation;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@keyframes rotation {
+  0% {
+      transform:rotate(0deg);
+  }
+  100% {
+      transform:rotate(360deg);
+  }
+}
