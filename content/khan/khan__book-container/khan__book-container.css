@@ -1,4 +1,5 @@
 .khan__book-container {
   padding: 68px 0px 0px 0px;
   display: flex;
+  overflow: hidden;
 }
