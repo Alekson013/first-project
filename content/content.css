@@ -5,6 +5,7 @@
   font-size: 60px;
   font-weight: bold;
   width: 75%;
+  z-index: 1;
 
 }
 .section-subtitle{
@@ -15,4 +16,5 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  z-index: 1;
 }

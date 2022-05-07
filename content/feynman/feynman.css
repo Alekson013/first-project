@@ -1,9 +1,11 @@
 .feynman {
-  margin-top: 100px;
+  margin: 0px;
+  padding: 100px 0px 0px 0px;
   height: 890px;
   position: relative;
   background-image: url(../../img/feinman.png);
   background-repeat: no-repeat;
   background-size: 867px 637px;
   background-position: left bottom;
+  background-color: #f2f2f2;
 }
