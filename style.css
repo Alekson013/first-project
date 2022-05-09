@@ -34,11 +34,6 @@
 @import url(../first-project/block/section/section-title/_theme/section-title_theme-dark.css);
 @import url(../first-project/block/section/section-title/section-title.css);
 @import url(../first-project/block/techniques/techniques.css);
-@import url(../first-project/block/techniques/cards/cards.css);
-@import url(../first-project/block/techniques/cards/__description/cards__description.css);
-@import url(../first-project/block/techniques/cards/__image/cards__image.css);
-@import url(../first-project/block/techniques/cards/__item/cards__item.css);
-@import url(../first-project/block/techniques/cards/__title/cards__title.css);
 @import url(../first-project/block/vendor/fonts.css);
 @import url(../first-project/block/video/video.css);
 @import url(../first-project/block/video/__iframe/video__iframe.css);
@@ -69,3 +64,8 @@
 @import url(../first-project/block/table/__text/table__text.css);
 @import url(../first-project/block/table/_theme/table_theme_dark.css);
 @import url(../first-project/block/section/section-subtitle/_theme/section-subtitle_theme-dark.css);
+@import url(../first-project/block/cards/cards.css);
+@import url(../first-project/block/cards/__description/cards__description.css);
+@import url(../first-project/block/cards/__image/cards__image.css);
+@import url(../first-project/block/cards/__item/cards__item.css);
+@import url(../first-project/block/cards/__title/cards__title.css);
