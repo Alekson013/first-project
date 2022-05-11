@@ -70,3 +70,7 @@
 @import url(../first-project/block/cards/__image/cards__image.css);
 @import url(../first-project/block/cards/__item/cards__item.css);
 @import url(../first-project/block/cards/__title/cards__title.css);
+@import url(../first-project/block/resources/__logo/_arzamas/resources__logo_arzamas.css);
+@import url(../first-project/block/resources/__logo/_h1/resources__logo_h1.css);
+@import url(../first-project/block/resources/__logo/_polka/resources__logo_polka.css);
+@import url(../first-project/block/resources/__logo/_strelka/resources__logo_strelka.css);
