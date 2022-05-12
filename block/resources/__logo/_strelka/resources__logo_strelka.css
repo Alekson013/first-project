@@ -1,3 +1,4 @@
 .resources__logo_strelka {
   background-image: url(../../../../img/logo/resources-strelka.svg);
+  background-size: contain;
 }

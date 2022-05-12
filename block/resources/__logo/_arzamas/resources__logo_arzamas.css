@@ -1,3 +1,4 @@
 .resources__logo_arzamas{
   background-image: url(../../../../img/logo/resources-arzamas.svg);
+  background-size: contain;
 }
