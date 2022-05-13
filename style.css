@@ -1,5 +1,5 @@
 @import url(../first-project/page/page.css);
-@import url(/vendor/fonts.css);
+@import url(../first-project/vendor/fonts.css);
 @import url(../first-project/block/content/content.css);
 @import url(../first-project/block/description/description.css);
 @import url(../first-project/block/digits/digits.css);
