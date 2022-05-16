@@ -1,9 +1,8 @@
-.section-title{
-  margin: 0 auto;
-  text-align: center;
+.section-title_theme_dark {
+  color: white;
   line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
-  width: 60%;
   z-index: 1;
+  position: relative;
 }
