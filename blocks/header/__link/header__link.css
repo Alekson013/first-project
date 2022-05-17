@@ -3,7 +3,8 @@
   cursor: pointer;
   text-decoration: none;
   transition: opacity .2s linear ease;
-}
+  }
+
 .header__link:hover {
   opacity: .6;
 }

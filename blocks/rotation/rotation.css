@@ -7,6 +7,6 @@
   }
 }
 
-.keyframes__rotation {
+.rotation {
   animation: rotation 20s infinite linear;
 }
