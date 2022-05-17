@@ -1,7 +1,8 @@
-.footer__colomn-heading {
-  margin: 0px;
+.footer__column-heading {
+  margin: 0px auto;
   line-height: 18px;
   font-size: 18px;
   font-weight: bold;
   color: white;
+  text-align: center;
 }
